@@ -18,6 +18,7 @@ Contact - [aleksandrazietek00@gmail.com](mailto:aleksandrazietek00@gmail.com)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
+![Tidyverse](https://img.shields.io/badge/Tidyverse-1E90FF?logo=r&logoColor=white)
 
 **Databases**  
 ![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
@@ -27,11 +28,6 @@ Contact - [aleksandrazietek00@gmail.com](mailto:aleksandrazietek00@gmail.com)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
-
-**OS**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 ### In progress
 
@@ -45,11 +41,9 @@ Contact - [aleksandrazietek00@gmail.com](mailto:aleksandrazietek00@gmail.com)
 
 ## 🚀 Projects
 
-### 1. Real Estate Market Analysis  
-Web scraping, ML modeling (e.g., XGBoost), and visualization of housing market trends.
-
-### 2. Movie Recommendation System 
-Machine learning–based recommender system for personalized movie suggestions.
+- [Real Estate Market Analysis](https://github.com/azietek/real-estate-market-analysis) - Web scraping, ML modeling (e.g., XGBoost), and visualization of housing market trends.
+- [Movie Recommendation System](https://github.com/azietek/recommender-system) - Machine learning–based recommender system for personalized movie suggestions.
+- [Dance School Database](https://github.com/azietek/baza-szkoly-tanca) - A database for a swing dance school. Designed for the school owner to manage group compositions, skill levels, and staff salaries.
 
 *(More projects coming soon!)*
 
