@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-**Risk Model Validation Specialist** | Math (data analysis) graduate at University of Wrocław.
+**Risk Model Validation Specialist** | Math (data analysis) graduate at University of Wrocław. 
+
 Aspiring **Data Scientist** with a passion for **medical data analysis**.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azietek/)
@@ -41,9 +42,9 @@ Contact - [aleksandrazietek00@gmail.com](mailto:aleksandrazietek00@gmail.com)
 
 ## 🚀 Projects
 
-- [Real Estate Market Analysis](https://github.com/azietek/real-estate-market-analysis) - Web scraping, ML modeling (e.g., XGBoost), and visualization of housing market trends.
-- [Movie Recommendation System](https://github.com/azietek/recommender-system) - Machine learning–based recommender system for personalized movie suggestions.
-- [Dance School Database](https://github.com/azietek/baza-szkoly-tanca) - A database for a swing dance school. Designed for the school owner to manage group compositions, skill levels, and staff salaries.
+- [Real Estate Market Analysis](https://github.com/azietek/real-estate-market-analysis) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white) 	![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff) ![Tkinter](https://img.shields.io/badge/Tkinter-FF8C00?logo=python&logoColor=white) - A web scraping project that collects real estate listings, evaluates whether the prices are reasonable using a predictive model, and sends weekly emails to users with personalized property recommendations based on their preferences.
+- [Movie Recommendation System](https://github.com/azietek/recommender-system) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white) - Machine learning–based recommender system for personalized movie suggestions.
+- [Dance School Database](https://github.com/azietek/baza-szkoly-tanca) ![SQL](https://img.shields.io/badge/SQL-336791?logo=database&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-FF69B4?logo=r&logoColor=white) - A database for a swing dance school. Designed for the school owner to manage group compositions, skill levels, and staff salaries.
 
 *(More projects coming soon!)*
 
