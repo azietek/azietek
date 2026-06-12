@@ -1,8 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I'm a Data Professional
 
-**Risk Model Validation Specialist** | Math (data analysis) graduate at University of Wrocław. 
+I hold an MSc in Mathematics and Statistics and work at the intersection of **data science, risk model validation, and statistical modeling in medical and real-world data contexts**.
 
-Aspiring **Data Scientist** with a passion for **medical data analysis**.
+My focus is on building robust, interpretable, and production-ready analytical solutions using **Python and R**, with experience in working in regulated and high-stakes environments.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azietek/)
 
@@ -32,16 +33,15 @@ Contact - [aleksandrazietek00@gmail.com](mailto:aleksandrazietek00@gmail.com)
 
 ### In progress
 
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
 
 
 ## 🚀 Projects
 
+- [Oncology Survival Analysis](https://github.com/azietek/Oncology-Survival-Analysis-TCGA) ![dplyr](https://img.shields.io/badge/dplyr-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
+![survival](https://img.shields.io/badge/survival_analysis-2E8B57?style=for-the-badge)
+![survminer](https://img.shields.io/badge/survminer-4B8BBE?style=for-the-badge)
 - [Real Estate Market Analysis](https://github.com/azietek/real-estate-market-analysis) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white) 	![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff) ![Tkinter](https://img.shields.io/badge/Tkinter-FF8C00?logo=python&logoColor=white) - A web scraping project that collects real estate listings, evaluates whether the prices are reasonable using a predictive model, and sends weekly emails to users with personalized property recommendations based on their preferences.
 - [Movie Recommendation System](https://github.com/azietek/recommender-system) ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white) - Machine learning–based recommender system for personalized movie suggestions.
 - [Dance School Database](https://github.com/azietek/baza-szkoly-tanca) ![SQL](https://img.shields.io/badge/SQL-336791?logo=database&logoColor=white) ![Shiny](https://img.shields.io/badge/Shiny-FF69B4?logo=r&logoColor=white) - A database for a swing dance school. Designed for the school owner to manage group compositions, skill levels, and staff salaries.
@@ -50,10 +50,11 @@ Contact - [aleksandrazietek00@gmail.com](mailto:aleksandrazietek00@gmail.com)
 
 ---
 
-## 🎯 Goals
-- Advance in **ML and LLM**  
-- Develop expertise in **medical data science**  
-- Build an open-source portfolio
+## 📫 Open to
+
+- Data Science roles  
+- Biostatistics / Clinical Data Science opportunities  
+- Risk modeling & quantitative analytics roles  
 
 ---
 
