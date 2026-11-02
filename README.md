@@ -34,14 +34,14 @@ FastAPI · GitHub Actions (CI/CD) · AWS / GCP · DVC (Data Version Control)
 
 ## 🚀 Projects
 
-### 🏥 Hospital Readmission MLOps Pipeline
-Production-ready MLOps pipeline for predicting 30-day hospital readmissions using the Diabetes 130-US dataset. Features robust PySpark ETL, domain-specific clinical feature engineering, XGBoost modeling, model interpretability via SHAP (summary and bar plots), and automated evaluation reporting. Bridges clinical domain knowledge with scalable engineering and reproducible workflows.
+### 🏥 [Hospital Readmission MLOps Pipeline](https://github.com/azietek/hospital-readmission-mlops)
+Production-ready MLOps pipeline for predicting 30-day hospital readmissions using the Diabetes 130-US dataset. Features robust PySpark ETL, domain-specific clinical feature engineering, XGBoost modeling, model interpretability via SHAP (summary and bar plots), and automated evaluation reporting.
 
-### 🧬 Oncology Survival Analysis (TCGA-BRCA)
-A survival analysis of TCGA breast cancer patients investigating the impact of Triple-Negative Breast Cancer (TNBC) on overall survival. The project applies Kaplan–Meier estimation, Cox proportional hazards models, and a Weibull AFT model to address assumption violations and improve interpretability of survival effects.
+### 🧬 [Oncology Survival Analysis (TCGA-BRCA)](https://github.com/azietek/Oncology-Survival-Analysis-TCGA)
+Survival analysis of TCGA breast cancer patients investigating the impact of Triple-Negative Breast Cancer (TNBC) on overall survival. Applies Kaplan–Meier estimation, Cox proportional hazards models, and Weibull AFT models to address assumption violations.
 
-### 🏡 Real Estate Market Analysis
-End-to-end data pipeline combining web scraping, predictive modeling, and automation. The system evaluates property pricing fairness using machine learning and delivers personalized weekly recommendations via email, focusing on applied ML and automation patterns.
+### 🏡 [Real Estate Market Analysis](https://github.com/azietek/real-estate-market-analysis)
+End-to-end data pipeline combining web scraping, predictive modeling, and automation. Evaluates property pricing fairness using machine learning and delivers personalized weekly recommendations via automated email workflow.
 
 ---
 
